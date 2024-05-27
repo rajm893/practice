@@ -1,0 +1,5 @@
+tensorflow==2.10.0
+tensorflow-datasets
+google-cloud-aiplatform==1.48.0
+tensorflow==2.10.0
+kfp==2.7.0
